@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethudinsara&label=Profile%20views&color=0e75b6&style=flat" alt="nethudinsara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethudinsara" alt="nethudinsara" /></a> </p>
 
 - 🔭 I’m currently working on **Java and Frontend**
 
@@ -30,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethudinsara&show_icons=true&locale=en&layout=compact" alt="nethudinsara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethudinsara&show_icons=true&locale=en" alt="nethudinsara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethudinsara&" alt="nethudinsara" /></p>
+
+
