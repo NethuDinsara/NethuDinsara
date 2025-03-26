@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nethu Dinsara</h1>
 <h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethudinsara&label=Profile%20views&color=0e75b6&style=flat" alt="nethudinsara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nethudinsara&label=Profile%20views&color=0e75b6&style=flat" alt="nethudinsara" /> </p>
 
 - 🌱 I’m currently learning **ML integration and GEN AI**
 
