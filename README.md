@@ -1,21 +1,20 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Nethu Dinsara</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<h3 align="center">Passionate Fullstack Developer from Sri Lanka</h3>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat)" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning ML integrations and Gen-ai
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **University of Westminster**
 
-- 💬 Ask me about **Java**
+- 📝 I regularly write articles on https://medium.com/@neth.hettihewa
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
+- 📫 You can reach me to neth.hettihewa@gmail.com or through linkedin https://www.linkedin.com/in/nethu-hettihewa-b84897224/
+
 
 </td>
 <td width="50%" align="center">
