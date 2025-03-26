@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on https://medium.com/@neth.hettihewa
 
-- 📫 You can reach me to neth.hettihewa@gmail.com or through linkedin https://www.linkedin.com/in/nethu-hettihewa-b84897224/
+- 📫 You can reach me to neth.hettihewa@gmail.com or through LinkedIn https://www.linkedin.com/in/nethu-hettihewa-b84897224/
 
 
 </td>
@@ -36,14 +36,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethudinsara&show_icons=true&locale=en" alt="nethudinsara" /></p>
-
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethudinsara&show_icons=true&locale=en&layout=compact" alt="nethudinsara" /></p>
-</td>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
