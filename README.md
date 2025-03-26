@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **neth.hettihewa@gmail.com**
 
-- ⚡ Fun fact **I'm a tech and business nerd**
+- ⚡ **I'm a tech and business nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
