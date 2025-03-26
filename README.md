@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Nethu+Dinsara+%F0%9F%91%8B;Software+Engineering+Undergrad;Fullstack+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%230cc0df&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Nethu+Dinsara+%F0%9F%91%8B;Software+Engineering+Undergrad;Fullstack+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
 <p align="center"> <img src="[https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat)" alt="scar1109" /> </p>
