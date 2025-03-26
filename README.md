@@ -37,11 +37,13 @@
 <td width="50%" align="center">
   
   <br></br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethudinsara&show_icons=true&locale=en&layout=compact" alt="nethudinsara" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethudinsara&show_icons=true&locale=en" alt="nethudinsara" /></p>
+
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NethuDinsara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethudinsara&show_icons=true&locale=en&layout=compact" alt="nethudinsara" /></p>
+</td>
   
   </td>
 </tr>
