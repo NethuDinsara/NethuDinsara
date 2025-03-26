@@ -37,7 +37,7 @@
 <td width="50%" align="center">
   
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NethuDinsara&theme=dark&hide_border=false" /> 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethudinsara&show_icons=true&locale=en&layout=compact" alt="nethudinsara" /></p>
 </td>
 <td width="50%" align="center">
 
