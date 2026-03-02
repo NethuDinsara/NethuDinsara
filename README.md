@@ -9,7 +9,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 Currently learning ML integrations and Gen-ai
+- 🌱 Cloud Architecture Enthusiast
+
+- ML and Gen AI Developer
 
 - 🧑‍🎓 Undergraduate at **University of Westminster**
 
